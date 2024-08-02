@@ -1,0 +1,17 @@
+{
+  "timeLimit": 300,
+  "questions": [
+    {
+      "question": "What is 5 + 7?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "12",
+      "explanation": "5 + 7 equals 12."
+    },
+    {
+      "question": "What is the square root of 16?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4",
+      "explanation": "The square root of 16 is 4."
+    }
+  ]
+}
